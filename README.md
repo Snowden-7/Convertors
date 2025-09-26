@@ -177,8 +177,8 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## 👤 Author
 
-Developed by **Abdul Segawa**  
-📧 Contact: [segawaabdul@gmail.com](mailto:segawaabdul@gmail.com)  
+Developed by **Snowden 7**  
+📧 Contact: [snowden 7](mailto:segawaabdul@gmail.com)  
 💼 GitHub: [Snowden-7](https://github.com/Snowden-7)
 
 ---
