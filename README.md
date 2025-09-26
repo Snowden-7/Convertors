@@ -1,10 +1,10 @@
-# 📂 Convertors
+# ⚡ Convertors
 
 **Convertors** is your Swiss Army Knife for PDF workflows—a comprehensive Python toolkit to convert, extract, encrypt, and process PDF files into formats like **CSV, Excel, Word, PowerPoint, images, and text**. With built-in OCR (Tesseract + OpenCV), it can digitize even scanned tables and complex documents.
 
 ---
 
-## 🚀 Features
+## ⚡ Features
 
 - **PDF → CSV/Excel** (with OCR for scanned tables)
 - **PDF → PowerPoint** (`.pptx`, editable slides)
@@ -25,7 +25,7 @@ cd Convertors
 pip install -r requirements.txt
 ```
 
-### 🔹 PDF → CSV / Excel (with OCR)
+### ⚡ PDF → CSV / Excel (with OCR)
 
 ```bash
 cd pdf2csv/pdf-ocr-cv
@@ -36,7 +36,7 @@ python "3 OCR with Tesseract .py" && python "4 Write to csv.py"
 
 ---
 
-### 🔹 PDF → PowerPoint
+### ⚡ PDF → PowerPoint
 
 ```bash
 cd pdf2PowerPoint
@@ -46,7 +46,7 @@ python pdf2ppt.py
 
 ---
 
-### 🔹 PDF → Word
+### ⚡ PDF → Word
 
 ```bash
 cd spire/pdf2Word
@@ -56,7 +56,7 @@ python pdf2Word.py
 
 ---
 
-### 🔹 PDF → Text
+### ⚡ PDF → Text
 
 ```bash
 cd spire/pdf2Text
@@ -66,7 +66,7 @@ python pdf2text.py
 
 ---
 
-### 🔹 PDF → Images
+### ⚡ PDF → Images
 
 ```bash
 cd spire/pdf2Images
@@ -75,7 +75,7 @@ cd spire/pdf2Images
 
 ---
 
-### 🔹 Encrypt a PDF
+### ⚡ Encrypt a PDF
 
 ```bash
 cd spire/pdf_Encryptation
@@ -85,7 +85,7 @@ python encryptor.py
 
 ---
 
-## 📁 Project Layout
+## ⚡ Project Layout
 
 ```
 Convertors/
@@ -129,7 +129,7 @@ Convertors/
 
 ---
 
-## 🛠️ Requirements
+## ⚡ Requirements
 
 - **Python 3.9+**
 - OCR: `tesseract`, `opencv-python`, `pdf2image`, `pillow`
@@ -148,7 +148,7 @@ To use Spire-based tools, download and install Spire.PDF manually from
 
 ---
 
-## 📌 Roadmap
+## ⚡ Roadmap
 
 - [ ] Unified CLI (`convertor.py`) for all conversions
 - [ ] Batch PDF conversion support
