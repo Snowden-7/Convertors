@@ -1,0 +1,26 @@
+# Core OCR + Image Processing
+pytesseract
+opencv-python
+pillow
+pdf2image
+
+# PDF Processing
+PyPDF2
+pdfplumber
+
+# Data Handling
+pandas
+openpyxl
+
+# Document Conversions
+python-docx
+python-pptx
+xlrd
+xlsxwriter
+
+# Spire.PDF (external dependency - requires manual installation)
+spire.pdf
+
+# Utils
+numpy
+
